@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
-#@Project: NestFuse for image fusion
-#@Author: Li Hui, Jiangnan University
-#@Email: hui_li_jnu@163.com
+#@Project: MMI-Fuse for image fusion
+#@Author: Shi Zhenghe, XUST
+#@Email: 2571834079@qq.com
 #@File : test.py
 import datetime
 import os
